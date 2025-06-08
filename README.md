@@ -4,7 +4,7 @@
 
 **`Estudante de desenvolvimento fullstack`**
 
-Me chamo eduardo, tenho 27 anos, formado em ciências contabeis, atualmente trabalhando como auxiliar contabil iniciei uma nova faculdade de analise e desenvolvimento de sistemas para migrar para uma área de identificação. Hoje estou a procura de um estagio para solidificar conhecimentos e ingressar no mundo da tecnologia.⚡
+Me chamo eduardo, tenho 28 anos, formado em ciências contabeis, atualmente trabalhando como auxiliar contabil iniciei uma nova faculdade de analise e desenvolvimento de sistemas para migrar para uma área de identificação. Hoje estou a procura de um estagio para solidificar conhecimentos e ingressar no mundo da tecnologia.⚡
 
 <p align="left">
 
