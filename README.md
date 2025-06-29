@@ -1,6 +1,8 @@
 ## Hi there 👋
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 **`Estudante de desenvolvimento fullstack`**
 
@@ -21,7 +23,9 @@ Me chamo eduardo, tenho 28 anos, formado em ciências contabeis, atualmente trab
   height = "100"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
-          
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 
 <br/>
 <br/>
