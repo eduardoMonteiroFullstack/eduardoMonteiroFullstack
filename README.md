@@ -20,7 +20,7 @@ Me chamo eduardo, tenho 28 anos, formado em ciências contabeis, atualmente trab
 
 
 <img 
-  height = "70"
+  height = "70" width = "90"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
 
