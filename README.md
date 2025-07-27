@@ -1,55 +1,62 @@
-## Hi there 👋
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+## 👋 Olá! Bem-vindo ao meu perfil
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+Sou o **Eduardo**, estudante de **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Ciências Contábeis**. Atualmente trabalho como auxiliar contábil, mas estou em transição de carreira para a área de **tecnologia**, onde venho me dedicando diariamente aos estudos e projetos pessoais.  
+Busco uma **oportunidade de estágio em desenvolvimento** para aplicar meus conhecimentos e crescer profissionalmente no universo tech. 🚀
 
-**`Estudante de programação`**
+---
 
-Me chamo eduardo, tenho 28 anos, formado em ciências contabeis, atualmente trabalhando como auxiliar contabil iniciei uma nova faculdade de analise e desenvolvimento de sistemas para migrar para uma área de identificação. Hoje estou a procura de um estagio para solidificar conhecimentos e ingressar no mundo da tecnologia.⚡
+## 🚀 Tecnologias & Ferramentas
 
 <p align="left">
-
-
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
 
 ---
 
-### 📚 Linguagens e Tecnologias <></>
+## 📂 Projetos em destaque
 
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [projetoAluguelCarro] | Projeto que simula um aluguel de um carro, com local dateTime e calculo de valor de pagamento
+| [workshop-Spring-Mongodb  | Projeto backend simples desenvolvido com Spring Boot, que implementa uma API RESTful para gerenciamento de usuários
+| [Task-List] | projeto de gerenciamento de uma Lista de tarefas
+| [numerosRepetidos] Projeto que recebe um array e retorna a quantidade de repetições dos numeros do array
 
+---
 
-<img 
-  height = "100" width = "100"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
+## 📊 Estatísticas
 
-
-<img 
-height = "100" width = "100"          
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="155" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eduardoMonteiroFullstack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="155"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="155" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoMonteiroFullstack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoMonteiroFullstack&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook" 
+    height="155"
   />
-
 </p>
 
+---
 
+## 📄 Meu Currículo
+
+📎 [Clique aqui para visualizar meu currículo em PDF](./curriculo-eduardo.pdf)  
+
+
+---
+
+## 📫 Contato
+
+- 📧 Email: **eduardomonteirotecnologiadainf@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-monteiro-3981a8354/)  
+
+
+---
+
+> 💡 *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
