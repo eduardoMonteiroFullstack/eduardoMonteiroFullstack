@@ -46,7 +46,7 @@ Busco uma **oportunidade de estágio em desenvolvimento** para aplicar meus conh
 
 ## 📄 Meu Currículo
 
-📎 [Clique aqui para visualizar meu currículo em PDF](./Curriculo eduardo.pdf)  
+📎 [Clique aqui para visualizar meu currículo em PDF](./Curriculo-eduardo.pdf)  
 
 
 ---
