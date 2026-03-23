@@ -50,7 +50,7 @@ Sou o **Eduardo**, estudante de **Análise e Desenvolvimento de Sistemas**, com 
 ## 📫 Contato
 
 - 📧 Email: **eduardomonteirotecnologiadainf@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-monteiro-3981a8354/)  
+- 💼 [LinkedIn][(https://www.linkedin.com/in/eduardo-monteiro-3981a8354/) ](https://www.linkedin.com/in/eduardo-monteiro-carvalho-3981a8354/) 
 
 
 ---
