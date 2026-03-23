@@ -1,19 +1,15 @@
 ## 👋 Olá! Bem-vindo ao meu perfil
 
-Sou o **Eduardo**, estudante de **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Ciências Contábeis**. Atualmente trabalho como auxiliar contábil, mas estou em transição de carreira para a área de **tecnologia**, onde venho me dedicando diariamente aos estudos e projetos pessoais.  
-Busco uma **oportunidade de estágio em desenvolvimento** para aplicar meus conhecimentos e crescer profissionalmente no universo tech. 🚀
+Sou o **Eduardo**, estudante de **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Ciências Contábeis**. Atualmente trabalho como estagiário de Dados 🚀
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
 
 ---
