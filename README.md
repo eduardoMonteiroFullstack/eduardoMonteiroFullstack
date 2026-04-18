@@ -1,6 +1,6 @@
 ## 👋 Olá! Bem-vindo ao meu perfil
 
-Sou o **Eduardo**, estudante de **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Ciências Contábeis**. Atualmente trabalho como estagiário de Dados 🚀
+Sou o **Eduardo**, estudante de **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Ciências Contábeis**. Atualmente trabalho como estagiário de TI🚀
 
 ---
 
