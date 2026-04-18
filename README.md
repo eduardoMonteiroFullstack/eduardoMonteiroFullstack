@@ -42,7 +42,7 @@ Sou o **Eduardo**, estudante de **Análise e Desenvolvimento de Sistemas**, com 
 
 ## 📄 Meu Currículo
 
-📎 [Clique aqui para visualizar meu currículo em PDF](./Curriculo-eduardo.pdf)  
+📎 [Clique aqui para visualizar meu currículo em PDF](./Curriculo_eduardo.pdf)  
 
 
 ---
